@@ -32,7 +32,8 @@
 ```sh
 git clone https://github.com/audcore/audcore-skin-rack-mixer.git
 cd audcore-skin-rack-mixer
-node --test tests/page.test.mjs tools/build-package.test.mjs
+node --test tests/page.test.mjs
+node --test tools/build-package.test.mjs
 node tools/build-package.mjs . dist
 ```
 
