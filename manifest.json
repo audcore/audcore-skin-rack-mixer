@@ -38,8 +38,8 @@
   "preview": "assets/preview.png",
   "kind": "web",
   "license": "MIT",
-  "repository": "https://github.com/audcore/audcore-skin-rack",
-  "description": "机架调音台，声核独立网页皮肤",
+  "repository": "https://github.com/audcore/audcore-skin-rack-mixer",
+  "description": "把每个通道做成横向机架行，集中显示效果器、发送、音量和电平。",
   "build": {
     "schema": 1,
     "recipe": "web-static",
